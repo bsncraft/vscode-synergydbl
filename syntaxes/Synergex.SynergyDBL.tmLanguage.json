@@ -187,7 +187,7 @@
 			"patterns": [
                 {
 					"name": "comment.line.dbl",
-					"begin": "!",
+					"begin": ";",
 					"end": "(?=$)"
 				},
 				{
